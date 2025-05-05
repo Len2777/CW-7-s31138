@@ -9,16 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fede14fb-af82-46d7-80bc-ca7ddae3f05b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CW7APBD/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CW7APBD/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CW7APBD/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CW7APBD/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CW7APBD/obj/Debug/net8.0/CW7APBD.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CW7APBD/obj/Debug/net8.0/CW7APBD.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CW7APBD/obj/Debug/net8.0/CW7APBD.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CW7APBD/obj/Debug/net8.0/CW7APBD.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CW7APBD/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CW7APBD/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CW7APBD/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CW7APBD/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="fede14fb-af82-46d7-80bc-ca7ddae3f05b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +111,7 @@
       <workItem from="1746449828084" duration="3619000" />
       <workItem from="1746456338646" duration="8829000" />
       <workItem from="1746468177394" duration="666000" />
-      <workItem from="1746469379661" duration="307000" />
+      <workItem from="1746469379661" duration="632000" />
     </task>
     <servers />
   </component>
