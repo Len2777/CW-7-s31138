@@ -401,4 +401,8 @@ FodyWeavers.xsd
 .idea/
 **/obj/
 **/bin/Debug/net8.0/
+CW7APBD/obj/
+CW7APBD/bin/
+
+
 
